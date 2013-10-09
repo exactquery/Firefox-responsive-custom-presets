@@ -1,15 +1,21 @@
 [
     {
         "key": "320x480",
-        "name": "iPhone 3G/3GS",
+        "name": "HVGA (iPhone 3G/3GS)",
         "width": 320,
         "height": 480
     },
     {
         "key": "480x800",
-        "name": "Google Nexus one",
+        "name": "WVGA (Android/Windows)",
         "width": 480,
         "height": 800
+    },
+    {
+        "key": "960x540",
+        "name": "qHD (Many HTC Phones)",
+        "width": 960,
+        "height": 540
     },
     {
         "key": "640x960",
@@ -31,32 +37,56 @@
     },
         {
         "key": "800x600",
-        "name": "Old computers",
+        "name": "SVGA",
         "width": 800,
         "height": 600
     },
     {
         "key": "1024x600",
-        "name": "Most Netbooks",
+        "name": "Kindle Fire/Netbooks",
         "width": 1024,
         "height": 600
     },
     {
+        "key": "1280x720",
+        "name": "HD - 720p",
+        "width": 1280,
+        "height": 720
+    },
+    {
         "key": "1280x800",
-        "name": "MacBook Air",
+        "name": "WXGA (Older MacBook Air)",
         "width": 1280,
         "height": 800
     },
     {
         "key": "1366x768",
-        "name": "Some Laptops",
+        "name": "WXGA - Basic Laptops",
         "width": 1366,
         "height": 768
     },
     {
         "key": "1440x900",
-        "name": "MacBook Pro 15",
+        "name": "WXGA+ (MacBook Pro 15)",
         "width": 1440,
         "height": 900
+    },
+    {
+        "key": "1600x900",
+        "name": "Some Ultrabooks",
+        "width": 1600,
+        "height": 900
+    },
+    {
+        "key": "1920x1080",
+        "name": "FHD - 1080p",
+        "width": 1920,
+        "height": 1080
+    },
+    {
+        "key": "2560×1600",
+        "name": "WQXGA (Nexus 10)",
+        "width": 1920,
+        "height": 1080
     }
 ]
