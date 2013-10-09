@@ -1,19 +1,19 @@
 [
     {
         "key": "320x480",
-        "name": "HVGA (iPhone 3G/3GS)",
+        "name": "HVGA - iPhone 3G/3GS",
         "width": 320,
         "height": 480
     },
     {
         "key": "480x800",
-        "name": "WVGA (Android/Windows)",
+        "name": "WVGA - Android/Windows",
         "width": 480,
         "height": 800
     },
     {
         "key": "960x540",
-        "name": "qHD (Many HTC Phones)",
+        "name": "qHD - Many HTC Phones",
         "width": 960,
         "height": 540
     },
@@ -55,7 +55,7 @@
     },
     {
         "key": "1280x800",
-        "name": "WXGA (Older MacBook Air)",
+        "name": "WXGA - Older MacBook Air",
         "width": 1280,
         "height": 800
     },
@@ -67,7 +67,7 @@
     },
     {
         "key": "1440x900",
-        "name": "WXGA+ (MacBook Pro 15)",
+        "name": "WXGA+ - MacBook Pro 15",
         "width": 1440,
         "height": 900
     },
@@ -85,8 +85,8 @@
     },
     {
         "key": "2560×1600",
-        "name": "WQXGA (Nexus 10)",
-        "width": 1920,
-        "height": 1080
+        "name": "WQXGA - Nexus 10",
+        "width": 2560,
+        "height": 1600
     }
 ]
