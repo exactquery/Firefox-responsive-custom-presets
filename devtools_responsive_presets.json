@@ -1,41 +1,47 @@
 [
     {
+        "key": "320x372",
+        "name": "iPhone 3G/3GS/4/4S",
+        "width": 320,
+        "height": 372
+    },
+    {
+        "key": "320x460",
+        "name": "iPhone 5/5S/5SE",
+        "width": 320,
+        "height": 460
+    },
+    {
+        "key": "375x559",
+        "name": "iPhone 6/6S",
+        "width": 375,
+        "height": 559
+    },
+    {
+        "key": "414x628",
+        "name": "iPhone 6+/6S+",
+        "width": 414,
+        "height": 628
+    },
+    {
         "key": "320x480",
-        "name": "HVGA - iPhone 3G/3GS",
+        "name": "Most Android Phones",
         "width": 320,
         "height": 480
     },
     {
-        "key": "480x800",
-        "name": "WVGA - Android/Windows",
-        "width": 480,
-        "height": 800
-    },
-    {
-        "key": "960x540",
-        "name": "qHD - Many HTC Phones",
-        "width": 960,
-        "height": 540
-    },
-    {
-        "key": "640x960",
-        "name": "iPhone 4",
-        "width": 640,
-        "height": 960
-    },
-    {
-        "key": "640×1136",
-        "name": "iPhone 5",
-        "width": 640,
-        "height": 1136
+        "key": "800x1280",
+        "name": "Kindle HD 8.9/Galaxy Tabs",
+        "width": 1024,
+        "height": 1366
     },
     {
         "key": "768x1024",
-        "name": "iPad",
+        "name": "Most iPads, Nexus 9",
         "width": 768,
         "height": 1024
     },
-        {
+    {
         "key": "800x600",
         "name": "SVGA",
         "width": 800,
@@ -55,7 +61,7 @@
     },
     {
         "key": "1280x800",
-        "name": "WXGA - Older MacBook Air",
+        "name": "WXGA - Macbook Air 11",
         "width": 1280,
         "height": 800
     },
@@ -67,9 +73,15 @@
     },
     {
         "key": "1440x900",
-        "name": "WXGA+ - MacBook Pro 15",
+        "name": "WXGA+ - Macbook Air13/Retina13",
         "width": 1440,
         "height": 900
+    },
+    {
+        "key": "1440x1024",
+        "name": "Microsoft Surface Pro 3/4",
+        "width": 1440,
+        "height": 1024
     },
     {
         "key": "1600x900",
@@ -82,11 +94,5 @@
         "name": "FHD - 1080p",
         "width": 1920,
         "height": 1080
-    },
-    {
-        "key": "2560×1600",
-        "name": "WQXGA - Nexus 10",
-        "width": 2560,
-        "height": 1600
     }
 ]
