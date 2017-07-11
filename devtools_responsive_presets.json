@@ -25,16 +25,22 @@
     },
     {
         "key": "320x480",
-        "name": "Most Android Phones",
+        "name": "Older Android Phones",
         "width": 320,
         "height": 480
     },
     {
+        "key": "412x732",
+        "name": "Google Pixel",
+        "width": 412,
+        "height": 732
+    },
+    {
         "key": "800x1280",
         "name": "Kindle HD 8.9/Galaxy Tabs",
-        "width": 1024,
-        "height": 1366
-    },
+        "width": 800,
+        "height": 1280
+    }, 
     {
         "key": "768x1024",
         "name": "Most iPads, Nexus 9",
@@ -54,6 +60,12 @@
         "height": 600
     },
     {
+        "key": "1024x1366",
+        "name": "iPad Pro",
+        "width": 1024,
+        "height": 1366
+    },
+    {
         "key": "1280x720",
         "name": "HD - 720p",
         "width": 1280,
@@ -61,7 +73,7 @@
     },
     {
         "key": "1280x800",
-        "name": "WXGA - Macbook Air 11",
+        "name": "WXGA - MBA11/rMB12/<2016 rMBP13",
         "width": 1280,
         "height": 800
     },
@@ -73,13 +85,13 @@
     },
     {
         "key": "1440x900",
-        "name": "WXGA+ - Macbook Air13/Retina13",
+        "name": "WXGA+ - MBA13/rMBP",
         "width": 1440,
         "height": 900
     },
     {
         "key": "1440x1024",
-        "name": "Microsoft Surface Pro 3/4",
+        "name": "Microsoft Surface Pro 3+",
         "width": 1440,
         "height": 1024
     },
